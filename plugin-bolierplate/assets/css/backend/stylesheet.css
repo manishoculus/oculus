@@ -1,0 +1,28 @@
+.error{color:#ff0000;display:block;}
+.success{color:#008000;display:block;}
+.custom-button{
+    color:#21759b;
+    padding:0px;
+    border:none;
+    cursor: pointer;
+    background: none;}
+.custom-button:hover{color:#d54e21;}
+.loader{
+    background: url(../../images/ajax-loader.gif) left top no-repeat;
+    height: 100px;
+    float:left;
+    width:100px;
+    position:absolute;
+    top:50%;
+    left:40%;
+}
+.medium{width:50%;min-width:200px;}
+.large{width:300px;}
+.full-view{width:100%;}
+.small{width:50px;}
+.empty{text-align: center;font-style: italic;}
+.hidden{display:none;}
+textarea{
+    min-height:100px;
+}
+.right_align{ text-align: right;}
